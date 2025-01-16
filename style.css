@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1
+{
+  color : #00fbff;
+  font-family : 'Blackadder ITC', sans-serif;
+  font-size : 300%
+}
+
+h2
+{
+  color : #ff00d4;
+  font-family : 'Algerian', sans-serif;
+  font-size : 200%
+}
